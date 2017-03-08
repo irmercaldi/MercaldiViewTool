@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+MercaldiViewTool::Renderer.copyright 'Ian Mercaldi', 'All rights reserved'
+```
 
 ## Development
 
